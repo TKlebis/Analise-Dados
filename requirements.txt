@@ -12,3 +12,4 @@ streamlit_option_menu
 bokeh
 plotly==5.3.1
 pycaret
+imbalanced-learn== 0.10.1
