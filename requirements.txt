@@ -12,4 +12,4 @@ streamlit_option_menu
 bokeh
 plotly==5.3.1
 scikit-learn==0.24.2
-
+pycaret
