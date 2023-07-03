@@ -9,7 +9,6 @@ pydeck==0.6.2
 altair==4.1.0
 scikit-learn==0.24.2
 tqdm
-turtle
 streamlit_option_menu
 bokeh
 plotly==5.3.1
