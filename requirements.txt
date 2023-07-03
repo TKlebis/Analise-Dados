@@ -5,11 +5,6 @@ seaborn==0.11.2
 matplotlib==3.4.2
 plotly==5.3.1
 numpy==1.21.0
-re
-time
-io
-base64
-tempfile
 pydeck==0.6.2
 altair==4.1.0
 tqdm==4.62.0
