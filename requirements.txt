@@ -13,4 +13,4 @@ bokeh
 plotly==5.3.1
 pycaret
 imbalanced-learn== 0.10.1
-tk-0.1.0
+tkinter
