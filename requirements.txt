@@ -7,7 +7,7 @@ plotly==4.14.3
 numpy==1.19.5
 pydeck==0.6.2
 altair==4.1.0
-scikit-learn==0.23.2
+scikit-learn==0.24.2
 tqdm
 turtle
 streamlit_option_menu
