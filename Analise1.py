@@ -9,6 +9,7 @@ import re
 import io
 import base64
 import tempfile
+from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="Análise de Dados", page_icon="Dice.png")
 
