@@ -1,7 +1,6 @@
 # Configurar página
 import streamlit as st
 import pandas as pd
-import copy
 import pandas_profiling as pp
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -9,22 +8,17 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import re
-import time
 import io
 import base64
 import tempfile
-import pydeck as pdk
-import altair as alt
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
-from pycaret.classification import setup, compare_models, pull, finalize_model, predict_model, evaluate_model
+from pycaret.classification import setup, compare_models, pull, finalize_model, predict_model
 from pycaret.classification import *
 from turtle import done
 from streamlit_option_menu import option_menu
-from bokeh.plotting import figure
-from bokeh.models import ColumnDataSource
 from plotly.subplots import make_subplots
 
 st.set_page_config(page_title="Análise de Dados", page_icon="Dice.png")
