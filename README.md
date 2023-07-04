@@ -25,8 +25,8 @@
 
 
 - ## ⬇️ FUNÇÕES
-- **Escolha de sessão:** O usuario deve escolher entre a opção "Analise" e "[Treinamento](https://tk-dadoss.streamlit.app/)". 
-**Carregar arquivo de dados:** O usuário pode selecionar um arquivo nos formatos CSV, XLSX, JSON ou TXT para carregar na aplicação.
+- **Escolha de sessão:** O usuario deve escolher entre a opção "Analise" e "[Treinamento](https://tk-dadoss.streamlit.app/)".  
+- **Carregar arquivo de dados:** O usuário pode selecionar um arquivo nos formatos CSV, XLSX, JSON ou TXT para carregar na aplicação.
 - **Exibir dados do arquivo:** Após o arquivo ser carregado, os primeiros registros são exibidos ao usuário. O número de linhas a serem exibidas pode ser configurado através de um controle deslizante.
 - **Excluir/Alterar valor de linha:** O usuário pode interagir com o DataFrame exibido e realizar a exclusão ou alteração de valores de linhas específicas.
 - **Verificar Tipos das Variáveis:** O código exibe os tipos das variáveis presentes no DataFrame. O usuário tem a opção de modificar o tipo das variáveis selecionadas.
