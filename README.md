@@ -1,8 +1,11 @@
 # 📊 Ciência de Dados
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://st-pages.streamlit.app](https://tk-dados.streamlit.app/))
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://st-pages.streamlit.app]([https://tk-dados.streamlit.app/](https://tk-dadoss.streamlit.app/)))
+![Python Versions](https://img.shields.io/pypi/pyversions/st_pages.svg)
+![License](https://img.shields.io/github/license/blackary/st_pages)
+![Streamlit versions](https://img.shields.io/badge/streamlit-1.15.0--1.18.0-white.svg)
 
-Autor: [Thiago Klebis](https://www.linkedin.com/in/thiagoklebis/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tk-dados.streamlit.app/)
+
+*Autor:* [Thiago Klebis](https://www.linkedin.com/in/thiagoklebis/)
 
 >O código disponibilizado é uma aplicação web desenvolvida com a biblioteca Streamlit em Python. A aplicação tem o objetivo de realizar análise de dados a partir de um arquivo carregado pelo usuário.
 
